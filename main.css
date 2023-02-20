@@ -6,7 +6,7 @@
 
     #welcome {
 
-        background: url(images/Image-25.png);
+        background: url('./images/Image-25.png');
         background-size: cover;
         background-position: center;
         height: 100vh;
@@ -232,7 +232,7 @@ background: #efef;
     box-sizing: border-box;
     cursor: pointer;
     margin: 10px 15px;
-    background-image: url(images/back.jpg);
+    background-image: url('./images/back.jpg');
     background-position: center;
     background-size: cover;
 
